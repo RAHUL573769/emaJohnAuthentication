@@ -32,7 +32,7 @@ const Login = () => {
 
   if (user) {
     navigate(from, { replace: true });
-  }
+  } //j kan theke esecho sekhane chole jjao,,history rakbe na
 
   return (
     <div>
