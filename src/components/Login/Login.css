@@ -1,0 +1,38 @@
+.form-container{
+
+    width: 600px;
+    border: 1px solid blue;
+    border-radius: 23px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center; 
+
+    margin: 0 auto;
+}
+.form-title{
+    font-size: 35px;
+    color: aquamarine;
+    font-size: 400;
+}
+
+.input-group label{
+    display: block;
+}
+
+
+.input-group input{
+    width: 415px;
+    border: 1px solid brown;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 55px;
+}
+
+.form-submit{
+    width: 415px;
+    height: 55px;
+    background-color: burlywood;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
